@@ -7,7 +7,9 @@
     "start": "node server.js"
   },
   "dependencies": {
+    "dayjs": "^1.11.21",
     "express": "^4.19.2",
-    "sqlite3": "^5.1.7"
+    "socket.io": "^4.8.3",
+    "sqlite3": "^6.0.1"
   }
 }
