@@ -1,0 +1,15 @@
+# Mengabaikan file database (agar data lokal tidak terunggah)
+database.db
+
+# Mengabaikan node_modules (folder library yang sangat besar)
+node_modules/
+
+# Mengabaikan log dan file sistem lainnya
+*.log
+.DS_Store
+Thumbs.db
+npm-debug.log*
+
+# Mengabaikan file konfigurasi editor
+.vscode/
+.idea/

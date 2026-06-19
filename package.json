@@ -1,0 +1,13 @@
+{
+  "name": "sunat-app-premium",
+  "version": "2.0.0",
+  "description": "Aplikasi Antrian Sunat Massal - Premium UI",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
